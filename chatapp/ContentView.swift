@@ -14,8 +14,6 @@ struct ContentView: View {
             VStack(spacing: 24) {
                 Spacer()
 
-                
-                
                 VStack(spacing: 8) {
                     Image("ic_chat_logo")
                         .resizable()
